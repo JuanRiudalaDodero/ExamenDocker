@@ -43,3 +43,9 @@ EJEMPLO 4:
   - Usaremos 'docker ps -a ' para conocer los contenedores parados y en ejecucion. 
 
 <img src="Docker_ejemplo4.2.png" />
+
+
+<b>-APARTADO 1-</b>
+
+
+
