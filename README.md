@@ -47,5 +47,12 @@ EJEMPLO 4:
 
 <b>-APARTADO 1-</b>
 
+<img src="Img_Ap2/tomcat1.png" />
+<img src="Img_Ap2/tomcat2.png" />
+<img src="Img_Ap2/tomcat3.png" />
+<img src="Img_Ap2/tomcat4.png" />
+<img src="Img_Ap2/tomcat5.png" />
+<img src="Img_Ap2/tomcat6.png" />
 
 
+https://hub.docker.com/r/juanriudala/2703bbe9e9d4
